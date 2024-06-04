@@ -87,7 +87,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
-* [![Solidity][https://solidity.io/]][Solidity-url]
+* [![Solidity][solidity.io/]][Solidity-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
