@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://lh3.googleusercontent.com/fife/ALs6j_ED4B9bdAedZJQIUGpq_bN7i9YjLFZw72dbgbHvgLgAl-AG6k89n48nXiYJ9Lwb_0NjW8S0e64PfoGoEZgleU5I7W8xfBZBFNc6uyEI9cOKOxw5hZzhueXAercAg0HpRJyIzwarlQHy3v_niPEvhTFlnPYzDb2mi8MQt2r-wFLdthUUCZKWwY1EwNck1W7nIO0q3TwkNXFyxKDtnLJMMrrfryheEFMbvgP0Q-_tVVzIh8e-xLeFXAVWR6c0EBeJM-0YQalws1JC92Ia3YdFeq9nUNeGSFs1QGrvQS61TGZHAnzW55D5bf7dHqvpWPGf1fUJuNnk2yKONlm2nFFJVuU9RaHUkO8qhcA3iyw372uq-5u7ilcF_gzoF_o6reLtBYLJZZaJfqW9w1pS4QmJY-3kmikPxqmY_yPyL814A1MIfK_9sNy_qK2svunFJxPozwr0qnRg_KvAx_wZkY8sHLbVsIMnEFoCycDR3Zhqtb4Oto4k4LZiBmoWqfE3uP9UFs1J5oB8qnFwiMaTgJndpMWDpIxf_5p6GTF8HfJPzsei5w_1jW-35USAO8j5H_LZB2o8h2yKRPQEkpqad_oo7m7cV_ORyblAyIGfrzY-kvDVeRZU-XN2Sy139cnXw9TvVOppPvUBbUHiojLJrBH9y5QyS-2vYL_phgBr0YqKy6Pl1FEMHTJUyfYxeMrmezLMN3D5jMyKbwMeLykSfimcsQgQDvSfeXL5GJ_0qlEvODGZHKKzWo5V5Up2Rz3P1Lx1AcH_n0cWHD6rvsm6e1OgG2cAREavBt5N-ibvwFuxMjDlsJUIkl8r7YQznsTwF1ysY5diemzg_TYyGHSX-d69huDa6sezp_Jlc-GdaThWDQF48pNybVcEl8AY4kfpBYl25SNek2NMsgpk7lrOoxb3gBAitJ75GjzigzabEy3IY3Xxjpe2GLtH_My5Ege2CfqK09Ewv7klwYEDnCbYB1xv93JLN9dStyh03rH7Ds2zugYQE1YpWFyWAmBiYQyJ15CLwrsA2SeGFtDZKjoTfU-4WZ_l2sxp-g16cuQNuTsuXTigBDm4yh0nLKbP1vp1-XQhRgKatoc6nbYzYevpYBbuBdPrN8x9BeRQoQHftL7KlF_dJyKQGTxtbGY21qYWYWSLd5yMUBZAJsXf3Z-8z_A1zaPYDHXh3XEohsI-Iqkjpbu437Nlw2nz-BaE4tclTKJeCvqK0K7r2XoHPZf_W1PoIruvAV5ood2nf9wLBR7iP2aSftVCcLhqa1jA1jccAqjoHmjcrxNUlQydHiyQlyj5BRkHaC_Dgaw8yMsMClopQYZoGohy4L33NaetNhSNAFkfsYljfNJRYdjcBEg0JVcRkLFv2UWVI2L9hB4rrXruMU8iU9s1uUglBWDQUwOQXIZF2linjD1TGA7NhVOVT7dC2ym5oVkJL6Ue4xmJY4unrcyvOIsUBN-vARb0iHXWGzC-RaBMwdgYWSmcbRir5lUueP2--sB0bEFvBm3HBhWczble_AgQ0E3TmcbToEh0S-3HoySQ=s512" alt="Logo" width="80" height="80">
+    <img src="https://lh3.googleusercontent.com/fife/ALs6j_HfIgt3Rao0w7OGqMPLpdHIuuQ4ZoXGQdgs-3mB86SWbWYq7Y0i5cTqgJ4uVtf4mEo0dsxSw4aSRm79UO6rJ2LTXduFcTkdCk1cjKM_7N64e6N3nXBdoyrHJ9zl-UwbcTEsAHV9lHCTH9sxANu3-5w8vGt-AYnjUa5isS0AlyTn2aU4ih1wmoIKFJJBbk1WInjgoqUFOfR324ZxrOInIAQTXuHYNM1fYWEkuUhKcrh1hyMmmY6VUsMvpe74QyD8bNON-wIaqAAunHRFRUy7iAVDxbAP8Xgf4qx_0lcRYypogFHYpjSTv9ZcRte4FE7Djc2UiMFnkY-UcU2T2VZvsA5vHui5TjKQw0-c7vZsZKU_RBWDnibI7VdalpyJ-c_2PpcxIMfJFp-QTNLjbci-EHLQ_291V9HLv3BzfoC8AhF1OX_EXbeMHWNBJ-sEjIWE2C04Lwz8JxV-NZzIKM-BYKrvlLGR4VGLZLDPkO7pe-SrwVVW8HiDjCHXKs_zrO-Kf-niCDj2YV3QhAXsPoP9_3o3XjC9lauDUztMV9t0qXGOmTXNFCYoolkkZav0_C513FFMZxu8QNf4Rohdkp8Z5pTtAH_UM9pXtIkLEeGaY5gLvyLKyuP__YbIIp5tmvQNR5b5Hk4JMDKXONscmwjcQGkCrP8SQ_YhI-34fYcCWPvZhqokySOwX-SJKuTbcLqfg_8o5QQV72DkG79A6sOTfa4CDT2YaiiEbjuGY910gZRGwhHuBPc22KllReUR1AjjgMtBzmnC_gBSs_0uWUhmzWbkdoeYPA54q7zrZNHHMXkq9ZsV4a1BZJtNJmf4oFQeif1mz2OcisfL-d7FDoepw8gWPBgsT-A0uzUy7TBSFWvri_f8nBh_uUHJtvRuv9EBY5h52IGo2CifCWaVIUiip0ih3MSYijyaeUa3xd_VmDE4VqYubnHY__YZhiseW4DRq6EuSyydsQfw7zS23r_BkHQ93MLxnf_hSNJmY7Lny0nnerS9oGc0_WZpO7VdV_BXv6an99aZJ5DD4IpXbtCfwYeFagx8X0ttc-FpJTHGNspn3x3yRLwo51SwnG-k1BtE_RABsuJ_Sa_ocp95iYkhg-LLNYOtErZUF4-HMuIRRr6d7bsYRqgN8cqiTp_XZIf2-MXETujSnp3UmrzDdsRHn3MLTK8BScejsk-cGOWwJ5N_xpbZYLZC44aOa5rZTa-p5Lc1WqU4SuyiPH1J_Ff0AX2uz2r4005O9M1JUG59foBxQ2wXQVaGj0aN-3StyqtqE3WIspwE3AfK4CCLKyjUVea65UAeE-uMl5mwpi9a4UuAOBt50PKBCdrZrGHplu5tTVUZ6ilbKUAF7LuBBh6ahXPJeg7PiYaYJN9G3XD_DggkGOMa3k1QmY5lCbwnWOMe0q-E92I1Bp3Oe9S2T1s1qH0CVnJkL9Ha9mIN3dUCdexnYjdYx4KtGbLZMyJNZT20A83BArQpc3agPgzE3i8m5dxrx6yzPGZLW6rODBtO6UGkPA1NImvz3SoWgB8I9ar7jX7T2w=s512" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
@@ -53,11 +53,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -92,9 +87,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+* [![Solidity][https://solidity.io/]][Solidity-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
