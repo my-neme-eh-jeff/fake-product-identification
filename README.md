@@ -95,7 +95,7 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://www.infura.io)
+1. Get a free API Key at [https://www.infura.io](https://www.infura.io)
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
@@ -104,10 +104,22 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Connect your Metamask Wallet at  [https://metamask.io](https://metamask.io)
+    And change the network to Sepolia TestNet.
+6. Make a file named `keys.json`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   INFURA_PROJECT_ID = 'ENTER YOUR API ';
+   MNEMONIC = 'ENTER YOUR MNEMONIC PHRASE FROM THE METAMASK WALLET';
    ```
+7. Deploy the smart contract using 
+   ```js
+     truffle migrate --network sepolia
+   ```
+8. Run the deployment server
+   ```js
+     npm run dev
+   ```
+   Open <a href="http://localhost:3000"></a> with your browser to see the result.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
