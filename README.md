@@ -119,7 +119,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```js
      npm run dev
    ```
-   Open <a href="http://localhost:3000"></a> with your browser to see the result.
+   Open <a href="http://localhost:3000">http://localhost:3000</a> with your browser to see the result.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
