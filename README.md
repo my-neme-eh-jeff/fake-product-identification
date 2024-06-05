@@ -135,13 +135,16 @@ _Below is an example of how you can instruct your audience on installing and set
    truffle migrate
    ```
 8. For Local Testing ONLY
+9. 
     Configuration:-
    
-    1.Set Up Ganache:
+    *Set Up Ganache:
      Start Ganache and configure the RPC server to http://127.0.0.1:7545.
-    2.Connect Metamask:
+   
+    *Connect Metamask:
      Connect your Metamask wallet to the Ganache local blockchain.
-    3.Infura Deployment:
+   
+    *Infura Deployment:
      Set up an Infura project and add your Infura project ID in the Truffle configuration file.
 7. Deploy the smart contract using 
    ```js
