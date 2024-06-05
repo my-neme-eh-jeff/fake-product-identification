@@ -63,14 +63,32 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+
+<h1>GuardianChain: Fake Product Identification Using Blockchain</h1>
+
+Project Description:
+GuardianChain is a blockchain-based solution for detecting and preventing fake products. By leveraging the power of blockchain, QR code technology, and modern web development frameworks, GuardianChain provides a secure and immutable platform for verifying product authenticity. This project uses Solidity for smart contracts, Next.js for the frontend, Truffle and Ganache for local testing, and the Infura API for deployment.
+
+Features:
+
+1. Blockchain Integration: Utilizes Ethereum blockchain for secure, decentralized data storage.
+2. Smart Contracts: Implements smart contracts using Solidity to automate verification processes.
+3. QR Code Verification: Assigns a unique QR code to each product for easy verification by consumers.
+4. Frontend Development: Builds a user-friendly interface with Next.js for seamless user experience.
+5. Local Testing: Uses Truffle and Ganache for robust local testing of smart contracts.
+6. Deployment: Deploys smart contracts and data using the Infura API.
+
+Technology Stack:
+
+- Blockchain: Ethereum
+- Smart Contracts: Solidity
+- Frontend: Next.js, React
+- Testing: Truffle, Ganache
+- Deployment: Infura API
+
+
 
 Use the `BLANK_README.md` to get started.
 
@@ -85,11 +103,13 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+
+1. Node.js [https://nodejs.org/en](https://nodejs.org/en)
+2. Truffle [https://archive.trufflesuite.com/docs/truffle](https://archive.trufflesuite.com/docs/truffle)
+3. Ganache [https://archive.trufflesuite.com/docs/ganache](https://archive.trufflesuite.com/docs/ganache)
+4. Metamask [https://metamask.io](https://metamask.io)
+5. Infura Account [https://www.infura.io](https://www.infura.io)
+
 
 ### Installation
 
@@ -111,6 +131,11 @@ _Below is an example of how you can instruct your audience on installing and set
    INFURA_PROJECT_ID = 'ENTER YOUR API ';
    MNEMONIC = 'ENTER YOUR MNEMONIC PHRASE FROM THE METAMASK WALLET';
    ```
+7. Initialize:
+   ```js
+   truffle compile
+   truffle migrate
+   ```
 7. Deploy the smart contract using 
    ```js
      truffle migrate --network sepolia
@@ -119,7 +144,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```js
      npm run dev
    ```
-   Open <a href="http://localhost:3000">http://localhost:3000</a> with your browser to see the result.
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
