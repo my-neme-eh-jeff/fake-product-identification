@@ -14,8 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-
-    <img src="https://github.com/unknown91tech/real-marketplace-eth/assets/116144227/fd531ffe-a496-42af-9296-7699e8a80a48" alt="Logo" width="80" height="80">
+    ![image](https://github.com/unknown91tech/real-marketplace-eth/assets/116144227/1d05348c-7da5-4412-828f-fb5fef6046a9)
   </a>
 
   <p align="center">
