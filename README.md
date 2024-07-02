@@ -26,6 +26,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This is a college project built with the purpose of identifying fake products via blockchain. Once orders are places a copy of the QR is sent to the delivery partner for transportation from the seller to the warehouse. Now another QR is generated and sent with the credentials of user and the delivery parter. Now since the QR codes are generated via blockchain using the Keccak256 algorithm, they cannot be spoofed and we can identify if any mishap has occured during the whole process. There is  abasic frontend we ripped off of github open source projects do display the use case but this project was made considering integration with e-commerce platforms.  
 
 ![Screenshot 2024-06-05 195449](https://github.com/unknown91tech/real-marketplace-eth/assets/116144227/478b9c3f-9fff-49a3-9c55-c4258e5aacb1)
 
