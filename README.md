@@ -1,32 +1,13 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+# GuardianChain: Fake Product Identification Using Blockchain
 
-
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  
  <a href="https://github.com/unknown91tech/real-marketplace-eth">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBaD0zv3-wwI3-nkR_mOdNb7hWBF0jCNaOMg&s" alt="Logo" width="100" height="100">
   </a>
-
-  
 </div>
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-This is a college project built with the purpose of identifying fake products via blockchain. Once orders are places a copy of the QR is sent to the delivery partner for transportation from the seller to the warehouse. Now another QR is generated and sent with the credentials of user and the delivery parter. Now since the QR codes are generated via blockchain using the Keccak256 algorithm, they cannot be spoofed and we can identify if any mishap has occured during the whole process. There is  abasic frontend we ripped off of github open source projects do display the use case but this project was made considering integration with e-commerce platforms.  
+## About The Project 
+GuardianChain is a college project built with the purpose of identifying fake products via blockchain. Once orders are places a copy of the QR is sent to the delivery partner for transportation from the seller to the warehouse. Now another QR is generated and sent with the credentials of user and the delivery parter. Now since the QR codes are generated via blockchain using the Keccak256 algorithm, they cannot be spoofed and we can identify if any mishap has occured during the whole process. There is  abasic frontend we ripped off of github open source projects do display the use case but this project was made considering integration with e-commerce platforms.  
 
 ![Screenshot 2024-06-05 195449](https://github.com/unknown91tech/real-marketplace-eth/assets/116144227/478b9c3f-9fff-49a3-9c55-c4258e5aacb1)
 
@@ -55,34 +36,22 @@ This is a college project built with the purpose of identifying fake products vi
 
 ![Screenshot 2024-06-05 200456](https://github.com/unknown91tech/real-marketplace-eth/assets/116144227/b269072e-f327-4635-a57a-9ad19fff05ca)
 
+## Key features include:
 
-<h1>GuardianChain: Fake Product Identification Using Blockchain</h1>
+- Blockchain integration using Ethereum
+- Smart contracts implemented with Solidity
+- QR code generation and verification for product authentication
+- User-friendly interface built with Next.js
+- Local testing environment using Truffle and Ganache
+- Deployment via Infura API
 
-Project Description:
-GuardianChain is a blockchain-based solution for detecting and preventing fake products. By leveraging the power of blockchain, QR code technology, and modern web development frameworks, GuardianChain provides a secure and immutable platform for verifying product authenticity. This project uses Solidity for smart contracts, Next.js for the frontend, Truffle and Ganache for local testing, and the Infura API for deployment.
-
-Features:
-
-1. Blockchain Integration: Utilizes Ethereum blockchain for secure, decentralized data storage.
-2. Smart Contracts: Implements smart contracts using Solidity to automate verification processes.
-3. QR Code Verification: Assigns a unique QR code to each product for easy verification by consumers.
-4. Frontend Development: Builds a user-friendly interface with Next.js for seamless user experience.
-5. Local Testing: Uses Truffle and Ganache for robust local testing of smart contracts.
-6. Deployment: Deploys smart contracts and data using the Infura API.
-
-Technology Stack:
+## Technology Stack
 
 - Blockchain: Ethereum
 - Smart Contracts: Solidity
 - Frontend: Next.js, React
 - Testing: Truffle, Ganache
 - Deployment: Infura API
-
-
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
